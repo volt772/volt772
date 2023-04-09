@@ -4,7 +4,7 @@
 - Android Developer 📱
 - Full Stack Web Developer 🌐
 
-I am a versatilist and easily adapt to different hats (Full Stack Web Developer 🌐, App Developer 📱, ML Engineer 🤖 or beginner level Designer 🎨) depending on what the project requires. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
+I am a versatilist and easily adapt to different hats. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
 <br/>
 <br/>
 
@@ -12,7 +12,7 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
  
 ### 🧐 Skills:
 
-|제목|내용|
+|Categories|&nbsp;|
 |:---|:---|
 |Language|<img align="left" src="https://github.com/volt772/volt772/blob/main/icons/kotlin.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/python.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/console.png" height="42px"/>|
 |Mobile|<img align="left" src="https://github.com/volt772/volt772/blob/main/icons/android.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/jetpack.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/firebase.png" height="42px"/>|
@@ -25,19 +25,15 @@ I am a versatilist and easily adapt to different hats (Full Stack Web Developer 
 
 <br>
 
-
 ### 📊 Github Stats
-<a href='https://github.com/rahul-jha98/github-stats-transparent'>
-  
-![Stats Overview](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/overview.svg)
-![Most Used Languages](https://raw.githubusercontent.com/rahul-jha98/github-stats-transparent/output/generated/languages.svg)
-
+![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=volt772&show_icons=true&bg_color=00000000)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volt772&layout=compact)](https://github.com/volt772/github-readme-stats)
 </a>
 
 <br>
 
 ### 🛠️ My Projects
-<a href="https://github.com/rahul-jha98/Artistify.ai" target="_blank"> <img alt="artistify" src="./projects/artistify.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/sheets-database" target="_blank"> <img alt="sheetsdatabase" src="./projects/sheetsdatabase.svg"  height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/README_icons" target="_blank"> <img alt="readmeicons" src="./projects/readmeicons.svg" height="68" align="left"> </a>
-<a href="https://github.com/rahul-jha98/PasswordKeeper" target="_blank"> <img alt="passwordkeeper" src="./projects/passwordkeeper.svg" height="68" align="left"> </a>
+|Categories|&nbsp;|
+|:---|:---|
+|Company|<a href="https://mixed-hole-f87.notion.site/TODO-List-965c1aa435a5482d8e82e57a82b4dd14" target="_blank"><img alt="task" src="https://user-images.githubusercontent.com/57861321/230758484-63d84a22-9aa1-4dd2-b305-81aa204294f5.png" height="68" align="left"></a><a href="https://mixed-hole-f87.notion.site/TODO-List-965c1aa435a5482d8e82e57a82b4dd14" target="_blank"><img alt="task" src="https://user-images.githubusercontent.com/57861321/230758484-63d84a22-9aa1-4dd2-b305-81aa204294f5.png" height="68" align="left"></a><a href="https://mixed-hole-f87.notion.site/f55eed7b531e424aa39e8fd530f2f5d5" target="_blank"><img alt="groupware" src="https://user-images.githubusercontent.com/57861321/230758476-deceaef7-e0d5-4e3f-b7a6-9e2ebb345fc7.png" height="68" align="left"></a>|
+|Personal|<a href="https://mixed-hole-f87.notion.site/66cc7c9e7dab44f1b10105842b2379f2" target="_blank"><img alt="prooya" src="https://user-images.githubusercontent.com/57861321/230758644-2962edcf-3ab3-4c0d-b978-8c85e49bf98e.png" height="68" align="left"></a>|
