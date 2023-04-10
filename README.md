@@ -27,7 +27,7 @@ I am a versatilist and easily adapt to different hats. I love exploring new tech
 
 ### 📊 Github Stats
 ![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=volt772&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volt772&layout=compact)](https://github.com/volt772/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volt772&hide_progress=true)](https://github.com/volt772/github-readme-stats)
 </a>
 
 <br>
@@ -36,4 +36,4 @@ I am a versatilist and easily adapt to different hats. I love exploring new tech
 |Categories|Android APP|System & ETC|
 |:---|----|----|
 |Company|<a href="https://mixed-hole-f87.notion.site/f55eed7b531e424aa39e8fd530f2f5d5" target="_blank"><img alt="groupware" src="https://github.com/volt772/volt772/blob/main/thumbnails/groupware.png" height="68" align="left"></a><br/><br/><br/><a href="https://mixed-hole-f87.notion.site/TODO-List-965c1aa435a5482d8e82e57a82b4dd14" target="_blank"><img alt="task" src="https://github.com/volt772/volt772/blob/main/thumbnails/task.png" height="68" align="left"></a><br><br/><br/><a href="https://mixed-hole-f87.notion.site/05712f9e84f34237bdeae3e7003e4a11" target="_blank"><img alt="worknote" src="https://github.com/volt772/volt772/blob/main/thumbnails/worknote.png" height="68" align="left"></a>|<a href="https://mixed-hole-f87.notion.site/1a8e475c75504fa89ab19af683cadeb8" target="_blank"><img alt="notifier" src="https://github.com/volt772/volt772/blob/main/thumbnails/notifier.png" height="68" align="left"></a>
-|Personal|<a href="https://mixed-hole-f87.notion.site/66cc7c9e7dab44f1b10105842b2379f2" target="_blank"><img alt="prooya" src="https://github.com/volt772/volt772/blob/main/thumbnails/prooya.png" height="68" align="left"></a>|<a href="https://mixed-hole-f87.notion.site/66cc7c9e7dab44f1b10105842b2379f2" target="_blank"><img alt="prooya" src="https://github.com/volt772/volt772/blob/main/thumbnails/prooya.png" height="68" align="left"></a>
+|Personal|<a href="https://mixed-hole-f87.notion.site/66cc7c9e7dab44f1b10105842b2379f2" target="_blank"><img alt="prooya" src="https://github.com/volt772/volt772/blob/main/thumbnails/prooya.png" height="68" align="left"></a>|
