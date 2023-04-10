@@ -32,7 +32,7 @@ I am a versatilist and easily adapt to different hats. I love exploring new tech
 
 <br>
 
-### 🛠️ My Projects
+### 🛠️ My Major Projects
 |Category|Project|
 |:---|----|
 |Company<br/>(APP)|<a href="https://mixed-hole-f87.notion.site/f55eed7b531e424aa39e8fd530f2f5d5" target="_blank"><img alt="groupware" src="https://github.com/volt772/volt772/blob/main/thumbnails/groupware.png" height="70" align="left"></a><br/><a href="https://mixed-hole-f87.notion.site/TODO-List-965c1aa435a5482d8e82e57a82b4dd14" target="_blank"><img alt="task" src="https://github.com/volt772/volt772/blob/main/thumbnails/task.png" height="70" align="left"></a><br><a href="https://mixed-hole-f87.notion.site/05712f9e84f34237bdeae3e7003e4a11" target="_blank"><img alt="worknote" src="https://github.com/volt772/volt772/blob/main/thumbnails/worknote.png" height="70" align="left"></a>|
