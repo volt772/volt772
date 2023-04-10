@@ -27,7 +27,7 @@ I am a versatilist and easily adapt to different hats. I love exploring new tech
 
 ### 📊 Github Stats
 ![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=volt772&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volt772&layout=compact)](https://github.com/volt772/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volt772&hide_progress=true)](https://github.com/volt772/github-readme-stats)
 </a>
 
 <br>
