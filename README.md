@@ -1,4 +1,4 @@
-## Jeong Hwae Nam (Allen) 👋
+## Allen 👋
 
 잡부 개발자
 - Android Developer 📱
