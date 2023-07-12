@@ -32,7 +32,7 @@ I am a versatilist and easily adapt to different hats. I love exploring new tech
 
 <br>
 
-### 🛠️ Company Projects (~2022)
+### 🛠️ Company Major Projects (~2022)
 |Category|Project|
 |:---|----|
 |Mobile|<a href="https://play.google.com/store/apps/details?id=com.mailplug.aeolos2&hl=ko" target="_blank"><img alt="groupware" src="https://github.com/volt772/volt772/blob/main/thumbnails/groupware.png" height="70" align="left"></a><br/><a href="https://play.google.com/store/apps/details?id=com.mailplug.albatross&hl=ko" target="_blank"><img alt="task" src="https://github.com/volt772/volt772/blob/main/thumbnails/task.png" height="70" align="left"></a><br><a href="https://play.google.com/store/apps/details?id=com.mailplug.ant&hl=ko" target="_blank"><img alt="worknote" src="https://github.com/volt772/volt772/blob/main/thumbnails/worknote.png" height="70" align="left"></a>|
