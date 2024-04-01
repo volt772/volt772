@@ -1,13 +1,5 @@
 ## Allen 👋
 
-잡부 개발자
-- Android Developer 📱
-- Full Stack Web Developer 🌐
-
-I am a versatilist and easily adapt to different hats. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
-
 <!---<img align="right" src="https://github.com/volt772/volt772/blob/main/profile/my.jpg" width=300 height=400>-->
  
 ### 🧐 Skills:
