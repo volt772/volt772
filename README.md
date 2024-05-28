@@ -1,47 +1,22 @@
 ## Allen 👋
 
-잡부 개발자
-- Android Developer 📱
-- Full Stack Web Developer 🌐
-
-I am a versatilist and easily adapt to different hats. I love exploring new tech stack 💻 and leveraging them to build cool stuffs 🛠️. 
-<br/>
-<br/>
-
 <!---<img align="right" src="https://github.com/volt772/volt772/blob/main/profile/my.jpg" width=300 height=400>-->
  
 ### 🧐 Skills:
-
 |Categories|&nbsp;|
 |:---|:---|
-|Language|<img align="left" src="https://github.com/volt772/volt772/blob/main/icons/kotlin.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/python.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/console.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/php.png" height="42px"/>|
-|Mobile|<img align="left" src="https://github.com/volt772/volt772/blob/main/icons/android.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/androidjetpack.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/firebase.png" height="42px"/>|
-|OS|<img align="left" src="https://github.com/volt772/volt772/blob/main/icons/ubuntu.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/mac.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/windows.png" height="42px"/>|
-|Backend|<img align="left" src="https://github.com/volt772/volt772/blob/main/icons/flask.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/nginx.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/gunicorn.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/sentry2.png" height="42px"/>|
-|DB|<img align="left" src="https://github.com/volt772/volt772/blob/main/icons/psql.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/redis.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/mysql.png" height="42px"/>|
-|VCS|<img align="left" src="https://github.com/volt772/volt772/blob/main/icons/git.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/sourcetree.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/fork2.png" height="42px"/>|
-|Tools|<img align="left" src="https://github.com/volt772/volt772/blob/main/icons/confluence.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/diagram.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/figma.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/jira.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/fisheye.png" height="42px"/>|
-|Editor|<img align="left" src="https://github.com/volt772/volt772/blob/main/icons/androidstudio.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/vim.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/vscode.png" height="42px"/><img align="left" src="https://github.com/volt772/volt772/blob/main/icons/sublimetext.png" height="42px"/>|
-
-<br>
-
-### 📊 Github Stats
-![Allen's GitHub stats](https://github-readme-stats.vercel.app/api?username=volt772&show_icons=true&bg_color=00000000)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=volt772&hide_progress=true)](https://github.com/volt772/github-readme-stats)
-</a>
-
-<br>
-
-### 🛠️ Company Major Projects (~2022)
-|Category|Project|
-|:---|----|
-|Mobile|<a href="https://play.google.com/store/apps/details?id=com.mailplug.aeolos2&hl=ko" target="_blank"><img alt="groupware" src="https://github.com/volt772/volt772/blob/main/thumbnails/groupware.png" height="70" align="left"></a><br/><a href="https://play.google.com/store/apps/details?id=com.mailplug.albatross&hl=ko" target="_blank"><img alt="task" src="https://github.com/volt772/volt772/blob/main/thumbnails/task.png" height="70" align="left"></a><br><a href="https://play.google.com/store/apps/details?id=com.mailplug.ant&hl=ko" target="_blank"><img alt="worknote" src="https://github.com/volt772/volt772/blob/main/thumbnails/worknote.png" height="70" align="left"></a>|
-|System|<a href="https://github.com/volt772/xeno" target="_blank"><img alt="notifier" src="https://github.com/volt772/volt772/blob/main/thumbnails/notifier.png" height="70" align="left"></a>|
+|Backend|<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flask-3776AB?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Ubuntu-3776AB?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Nginx-3776AB?style=flat-square&logo=Pyton&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Gevent-3776AB?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Gunicorn-3776AB?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/PIPs-3776AB?style=flat-square&logo=&logoColor=FFFFFF"/>|
+|Android|<img src="https://img.shields.io/badge/Kotlin-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Java-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Flow-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Compose-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Hilt-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Coroutine-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CleanArchitecture-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MaterialUI-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Firebase-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Retrofit-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Glide-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/WebView-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Biometric-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/WebSocket-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Paging-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Room-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/DataBindng-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JUnit-34A853?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Espresso-34A853?style=flat-square&logo=&logoColor=FFFFFF"/>|
+|Web & Windows|<img src="https://img.shields.io/badge/PHP-FD5750?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/CodeIgniter-FD5750?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/wxPython-FD5750?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JavaScript-FD5750?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/JQuery-FD5750?style=flat-square&logo=&logoColor=FFFFFF"/>|
+|Database|<img src="https://img.shields.io/badge/MySQL-FFE033?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/PostgreSQL-FFE033?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Redis-FFE033?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/MariaDB-FFE033?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Sqlite3-FFE033?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/ElasticSearch-FFE033?style=flat-square&logo=&logoColor=FFFFFF"/>|
+|Monitoring|<img src="https://img.shields.io/badge/Sentry-1F36C7?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/NewRelic-1F36C7?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Firebase Crashlytics-1F36C7?style=flat-square&logo=&logoColor=FFFFFF"/>|
+|VCS|<img src="https://img.shields.io/badge/Git(GitFlow)-FF4F8B?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Hg Mercurial-FF4F8B?style=flat-square&logo=&logoColor=FFFFFF"/>|
+|Tools|<img src="https://img.shields.io/badge/Confluence-382923?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Vim-382923?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Notion-382923?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Figma-382923?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Zeplin-382923?style=flat-square&logo=&logoColor=FFFFFF"/> <img src="https://img.shields.io/badge/Shell-382923?style=flat-square&logo=&logoColor=FFFFFF"/>|
 
 <br>
 
 ### 🛠️ Personal Projects
-|Category|Project|
+||Project|
 |:---|----|
-|Product|<a href="https://github.com/volt772/prooya" target="_blank"><img alt="prooya" src="https://github.com/volt772/prooya/blob/main/introduce/app_profile_logo.png" height="70" align="left"></a><br/>|
-|Study|<a href="https://github.com/volt772/chipmunk" target="_blank"><img alt="chipmunk" src="https://github.com/volt772/volt772/blob/main/thumbnails/chipmunk.png" height="70" align="left"></a><br/><br/><br/><a href="https://github.com/volt772/quokka" target="_blank"><img alt="quokka" src="https://github.com/volt772/volt772/blob/main/thumbnails/quokka.png" height="70" align="left"></a><br/><br/><br/><a href="https://github.com/volt772/mongoose" target="_blank"><img alt="mongoose" src="https://github.com/volt772/volt772/blob/main/thumbnails/mongoose.png" height="70" align="left"></a>|
+|Product|<a href="https://github.com/volt772/prooya" target="_blank"><img alt="prooya" src="https://github.com/volt772/prooya/blob/main/introduce/app_profile_logo.png" height="70" align="left"></a><a href="https://github.com/volt772/chipmunk" target="_blank"><img alt="chipmunk" src="https://github.com/volt772/volt772/blob/main/thumbnails/chipmunk.png" height="70" align="left"></a>|
+|Working On|<a href="https://github.com/volt772/mongoose" target="_blank"><img alt="mongoose" src="https://github.com/volt772/volt772/blob/main/thumbnails/mongoose.png" height="70" align="left"></a>|
